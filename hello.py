@@ -1,21 +1,25 @@
+#learn Python Coding 2020
+#By Ezzz
+#follow me one day
+###########################################
 #clear the terminal screen
 import os
 os.system('clear')
 # creating strings
-full_name= "Erick DeLeon"
+full_name= "Ezzz"
 print (full_name)
 full_name= "Angel"
 print (full_name)
 
 # list
-name= ["Erick", "Angel", "Micbeth"]
+name= ["Ezzz", "Angel", "Micbeth"]
 print (name)
 # to call specific name add [] and add number inside bracket starting with 0 is first name
 
 
 fav_pizza = {
 	"john":"pep",
-	"Erick":"Cheese",
+	"Ezzz":"Cheese",
 	"Angel": "More Cheese"
 }
 
